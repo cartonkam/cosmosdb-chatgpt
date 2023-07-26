@@ -59,16 +59,16 @@
     },
     "appGitRepository": {
       "type": "string",
-      "defaultValue": "https://github.com/azure-samples/cosmosdb-chatgpt.git",
+      "defaultValue": "https://github.com/cartonkam/cosmosdb-chatgpt.git",
       "metadata": {
-        "description": "Git repository URL for the chat application. This defaults to the [`azure-samples/cosmosdb-chatgpt`](https://github.com/azure-samples/cosmosdb-chatgpt) repository."
+        "description": "Git repository URL for the chat application. This defaults to the [`azure-samples/cosmosdb-chatgpt`](https://github.com/cartonkam/cosmosdb-chatgpt) repository."
       }
     },
     "appGetRepositoryBranch": {
       "type": "string",
       "defaultValue": "main",
       "metadata": {
-        "description": "Git repository branch for the chat application. This defaults to the [**main** branch of the `azure-samples/cosmosdb-chatgpt`](https://github.com/azure-samples/cosmosdb-chatgpt/tree/main) repository."
+        "description": "Git repository branch for the chat application. This defaults to the [**main** branch of the `azure-samples/cosmosdb-chatgpt`](https://github.com/cartonkam/cosmosdb-chatgpt/tree/main) repository."
       }
     }
   },
@@ -81,7 +81,7 @@
         "name": "gpt-35-turbo",
         "version": "0301",
         "deployment": {
-          "name": "chatmodel"
+          "name": "firstAI"
         }
       }
     },
