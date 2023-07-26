@@ -15,7 +15,7 @@
             "value": "S0"
         },
         "appGitRepository": {
-            "value": "https://github.com/azure-samples/cosmosdb-chatgpt.git"
+            "value": "https://github.com/cartonkam/cosmosdb-chatgpt.git"
         },
         "appGetRepositoryBranch": {
             "value": "main"
